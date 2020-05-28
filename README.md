@@ -1,0 +1,1 @@
+A simple script that will upload [arcdps](https://www.deltaconnected.com/arcdps/) raid logs from Guild Wars 2 to https://www.gw2raidar.com and https://dps.report.
